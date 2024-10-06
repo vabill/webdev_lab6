@@ -16,7 +16,7 @@ body {background-image: url("../images/black.jpg");}
   font-family: 'Devonshire', cursive;
   color: #E35335;}
 
-#header a#logo img { margin-top: 20px;
+#header a#logo1 img { margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;}
 
@@ -65,7 +65,7 @@ h2 strong { font-size: 2em;
   position: relative;
   left:50%;}
 
-#mail-nav ul li { float: left;
+#main-nav ul li { float: left;
   position: relative;
   right: 50%;}
 
@@ -77,6 +77,8 @@ h2 strong { font-size: 2em;
 #main-nav ul li a:hover { background-color: #ccc;
   color: #333;}
 
-#center {width: 960px; text-align:center;}
+#center {width: 960px; 
+	text-align:center;}
 
-strong {font-weight: 900; font-size: 48px;}
+strong {font-weight: 900;
+	font-size: 48px;}
